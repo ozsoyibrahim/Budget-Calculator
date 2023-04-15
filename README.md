@@ -1,6 +1,6 @@
 # This is a Budget Calculator Website
 
-#### Write down your expenses and add them to the list. Make changes if you want, or delete if you want. Below you can knit your total expenses.
+#### Write down your expenses and add them to the list. Make changes if you want, or delete if you want. Below you can see your total expenses.
 
 ## This work has been prepared with React. We have not neglected to use CSS either.
 
